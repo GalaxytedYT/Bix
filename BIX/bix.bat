@@ -57,6 +57,7 @@ echo ----------
 echo list
 echo commands
 echo ver
+echo removefolder
 echo directory
 echo createfolder
 echo programs
