@@ -7,6 +7,8 @@ First: Download as .zip, You should see these files inside of the master folder,
 
 Now, make a new folder on the root of your C: Drive (or any other drive you wanna run Bix on.), and name it "Bix" (These steps are needed because the code has to be edited in order to match your directory, If you don't want to put it on the root of your C: Drive (again, or any other drive), You can edit the code.)
 
+You can also edit the username.txt inside of the USERS folder to change your name on the terminal (bix@Default to a custom one)
+
 For the installation, this is pretty much it. Now, I'll be givin' up a little help.
 Start up bix.bat (If you think it's a virus, right click it and click edit, then look through the code, If you still think it's a virus, then just don't use it, I ain't forcing ya)
 For any command that needs input type in the command. (NOTE: If the design isn't the same, you might be in the future, This is only updated when it's needed to.)
