@@ -32,5 +32,6 @@ Bix is open source and free, If you see anybody buying Bix, tell them that they 
 Bix should not be downloaded anywhere else than this GitHub page, unless its used to create something else. non-related to it.
 
 Not Important but you might be intereseted
+
 If you wanna make your own terminal in batch, use this.
 You can see the source code of this to learn more batch commands and see how to built stuff etc.
