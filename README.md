@@ -1,5 +1,5 @@
 # Bix - A linux-like batch based terminal.
-Keep reading to understand how to use it.
+Keep reading to understand how to use it. (After instructions, there are some important stuff)
 
 First: Download as .zip, You should see these files inside of the master folder.
 
@@ -10,6 +10,7 @@ Now, make a new folder on the root of your C: Drive (or any other drive you wann
 For the installation, this is pretty much it. Now, I'll be givin' up a little help.
 Start up bix.bat (If you think it's a virus, right click it and click edit, then look through the code, If you still think it's a virus, then just don't use it, I ain't forcing ya)
 For any command that needs input type in the command. (NOTE: If the design isn't the same, you might be in the future, This is only updated when it's needed to.)
+For all the commands, type in "commands" and hit enter.
 
 ![image](https://user-images.githubusercontent.com/66563283/102022160-af8f0180-3d8d-11eb-9a27-5887b3fd9a8f.png)
 
@@ -24,3 +25,12 @@ For now, this is what you need to know. (I added a profile to the new Windows Te
                 "hidden": false
                 
 )
+
+#Important!!
+
+Bix is open source and free, If you see anybody buying Bix, tell them that they got scammed.
+Bix should not be downloaded anywhere else than this GitHub page, unless its used to create something else. non-related to it.
+
+#Not Important but you might be intereseted
+If you wanna make your own terminal in batch, use this.
+You can see the source code of this to learn more batch commands and see how to built stuff etc.
