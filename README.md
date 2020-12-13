@@ -1,7 +1,7 @@
 # Bix - A linux-like batch based terminal.
 Keep reading to understand how to use it. (After instructions, there are some important stuff)
 
-First: Download as .zip, You should see these files inside of the master folder.
+First: Download as .zip, You should see these files inside of the master folder, or download the latest release. (https://github.com/GalaxytedYT/Bix/releases/tag/1.0.0)
 
 ![image](https://user-images.githubusercontent.com/66563283/102021767-e44d8980-3d8a-11eb-8fc6-c015a818edd4.png)
 
